@@ -1,0 +1,45 @@
+[
+    {
+        "id":1,
+         "parsonal_details":{
+            "fastname":"Julfiker",
+            "lastname":"islam"
+         },
+         "contact":{
+            "gmail":"Julfiker755.bd@gmail.com",
+             "phone":"01741703755"
+         },
+         "address":{
+            "presentadddress":"khansama",
+            "parmanentaddress":"dinajpur"
+         }
+    },{
+        "id":2,
+         "parsonal_details":{
+            "fastname":"Julfiker 2",
+            "lastname":"islam 2"
+         },
+         "contact":{
+            "gmail":"Julfiker755.bd@gmail.com 2" ,
+             "phone":"01741703755 2"
+         },
+         "address":{
+            "presentadddress":"khansama",
+            "parmanentaddress":"dinajpur"
+         }
+    },{
+        "id":3,
+         "parsonal_details":{
+            "fastname":"Jlkjgker",
+            "lastname":"islagm"
+         },
+         "contact":{
+            "gmail":"Julfiker.bd@gmail.com",
+             "phone":"01741"
+         },
+         "address":{
+            "presentadddress":"khansama",
+            "parmanentaddress":"dinajpur"
+         }
+    }
+]

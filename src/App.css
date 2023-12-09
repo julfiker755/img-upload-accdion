@@ -1,0 +1,33 @@
+/* small divise */
+@media (min-width: 0px) { 
+    .Lsub {
+        position: absolute;
+        background-color: #bc4749;
+        padding: 20px;
+        width: 200px;
+        transform: scaleY(0);
+        transition: 0.5s;
+        transform-origin: top;
+    }
+    
+    .Lsubadd {
+        transform: scaleY(1)!important;
+        position: static;
+    }
+}
+/* Desktop device */
+@media (min-width:1024px) { 
+    .Lsub {
+        position: absolute;
+        background-color: #bc4749;
+        padding: 20px;
+        width: 200px;
+        transform: scaleY(0);
+        transition: 0.5s;
+        transform-origin: top;
+    }
+    
+    .Lsubadd {
+        transform: scaleY(1)!important;
+    }
+}
